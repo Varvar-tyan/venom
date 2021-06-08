@@ -1,3 +1,2 @@
-# venom - Glo Academy
-Teaser for Venom 2
-Training project
+# venom -  training project with Glo Academy
+## Teaser for Venom 2
